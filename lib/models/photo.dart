@@ -35,7 +35,7 @@ class Photo {
       'url': url,
       'thumbnailUrl': thumbnailUrl,
 
-      //Tan khung
+      //Tan khungasdasdasd
     };
   }
 }
