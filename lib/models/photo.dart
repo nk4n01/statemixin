@@ -22,7 +22,7 @@ class Photo {
       thumbnailUrl: json['thumbnailUrl'],
     );
   }
-
+  "Nguyenvanhien"
   static List<Photo> listFromJson(list) {
     return List<Photo>.from(list.map((x) => Photo.fromJson(x)));
   }
@@ -34,6 +34,8 @@ class Photo {
       'title': title,
       'url': url,
       'thumbnailUrl': thumbnailUrl,
+
+      //Tan khung
     };
   }
 }
