@@ -12,6 +12,8 @@ class Photo {
     this.url,
     this.thumbnailUrl,
   });
+  //nguyenanvahiea
+  
 
   factory Photo.fromJson(Map<String, dynamic> json) {
     return Photo(
